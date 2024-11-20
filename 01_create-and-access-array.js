@@ -7,6 +7,8 @@ console.log(firstElement);
 const lastElement = numbers[numbers.length - 1];
 console.log(lastElement);
 
+
+// Create an array of fruits and access elements using index.
 // 2. Add and remove elements:
 
 const fruits = ["apple", "banana", "cherry", "date", "elderberry"];
